@@ -1,4 +1,4 @@
-### Hi there! I am Mrunank and I love to coding and chess! 👋
+### Hi there! I am Mrunank and I love coding and chess! 👋
 
 [![binarysearch](https://binarysearch.com/api/shields/fork52)](https://binarysearch.com/@/fork52)
 
