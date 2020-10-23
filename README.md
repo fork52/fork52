@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I am Mrunank and I love to coding and chess! 👋
+
+[![binarysearch](https://binarysearch.com/api/shields/fork52)](https://binarysearch.com/@/fork52)
 
 <!--
 **fork52/fork52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
