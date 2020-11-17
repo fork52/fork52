@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there! I am Mrunank and I love coding and chess! 👋 </h3> 
+<h3 align="center"> Hello There! I am Mrunank and I love coding and chess! 👋 </h3> 
 
 <p align="center">
   <a href="https://binarysearch.com/@/fork52">
@@ -22,10 +22,7 @@
 <!--
 [![binarysearch](https://binarysearch.com/api/shields/fork52)](https://binarysearch.com/@/fork52)
 [![Mrunank's github stats](https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true)](https://github.com/fork52/github-readme-stats)
-
 -->
-
-
 
 
 <!--
