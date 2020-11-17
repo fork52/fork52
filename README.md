@@ -3,8 +3,8 @@
 [![binarysearch](https://binarysearch.com/api/shields/fork52)](https://binarysearch.com/@/fork52)
 
 
+[![Mrunank's github stats](https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true)](https://github.com/fork52/github-readme-stats)
 
-[![Mrunank's github stats](https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true&theme=dark)](https://github.com/fork52/github-readme-stats)
 
 <!--
 **fork52/fork52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
