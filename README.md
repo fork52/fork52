@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/fork52/">
-      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true" />
+      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api?username=fork52&show_icons=true&theme=blueberry" />
    </a>
     <a href="https://github.com/fork52/">
-      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fork52&&langs_count=9&&hide=HTML,CSS,Jupyter%20Notebook&layout=compact" />
+      <img alt="Mrunank's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fork52&&langs_count=9&&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=blueberry" />
    </a>
 </p>
 
