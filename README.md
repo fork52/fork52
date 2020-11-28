@@ -7,6 +7,9 @@
   <a href="https://codeforces.com/profile/fork52">
       <img alt="Code-Forces Profile" src="https://run.kaist.ac.kr/badges/codeforces/fork52.svg" />
   </a>
+  <a href="https://leetcode.com/mrunankmistry52/">
+      <img alt="LeetCode Profile" src="https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode" />
+  </a>
 </p>
 
 
