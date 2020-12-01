@@ -10,6 +10,9 @@
   <a href="https://leetcode.com/mrunankmistry52/">
       <img alt="LeetCode Profile" src="https://img.shields.io/badge/Leetcode-Profile-yellow?logo=LeetCode" />
   </a>
+  <a href="https://www.hackerrank.com/mrunankmistry52">
+      <img alt="HackerRank Profile" src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank&color=#2EC866" />
+  </a>
 </p>
 
 
