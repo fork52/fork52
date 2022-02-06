@@ -14,7 +14,7 @@
       <img alt="HackerRank Profile" src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank&color=#2EC866" />
   </a>
   <a href="https://codeforces.com/profile/fork52">
-      <img alt="Codeforces Profile" src="https://cp-logo.vercel.app/codeforces/fork52" />
+      <img alt="Codeforces Profile" src="https://img.shields.io/endpoint?url=https://mrunank.pythonanywhere.com/codeforces/fork52" />
   </a>
   
 </p>
