@@ -1,9 +1,6 @@
 <h3 align="center"> Hello There! I am Mrunank and I love coding and chess! 👋 </h3> 
 
 <p align="center">
-  <a href="https://binarysearch.com/@/fork52">
-      <img alt="Binary-Search Profile" src="https://binarysearch.com/api/shields/fork52" />
-  </a>
 <!--   <a href="https://codeforces.com/profile/fork52">
       <img alt="Code-Forces Profile" src="https://run.kaist.ac.kr/badges/codeforces/fork52.svg" />
   </a> -->
